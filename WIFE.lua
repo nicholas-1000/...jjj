@@ -1,5 +1,5 @@
 -- // Dependencies
-local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/nicholas-1000/...jjj/main/OK.lua?token=GHSAT0AAAAAABTNNZALE2O5W3IANC4JQK2KYV5G6GQ"))()("Module")
+local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/nicholas-1000/...jjj/main/OK.lua"))()("Module")
 
 -- // Services
 local UserInputService = game:GetService("UserInputService")
